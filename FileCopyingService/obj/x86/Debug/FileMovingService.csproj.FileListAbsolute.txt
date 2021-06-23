@@ -1,0 +1,13 @@
+C:\Users\Jerry\Dropbox\Projects\FileMovingService\FileMovingService\FileMovingService\bin\Debug\FileMovingService.exe.config
+C:\Users\Jerry\Dropbox\Projects\FileMovingService\FileMovingService\FileMovingService\bin\Debug\FileMovingService.exe.manifest
+C:\Users\Jerry\Dropbox\Projects\FileMovingService\FileMovingService\FileMovingService\bin\Debug\FileMovingService.application
+C:\Users\Jerry\Dropbox\Projects\FileMovingService\FileMovingService\FileMovingService\bin\Debug\FileMovingService.exe
+C:\Users\Jerry\Dropbox\Projects\FileMovingService\FileMovingService\FileMovingService\obj\x86\Debug\FileMovingService.FileMovingService.resources
+C:\Users\Jerry\Dropbox\Projects\FileMovingService\FileMovingService\FileMovingService\obj\x86\Debug\FileMovingService.csproj.GenerateResource.Cache
+C:\Users\Jerry\Dropbox\Projects\FileMovingService\FileMovingService\FileMovingService\obj\x86\Debug\FileMovingService.TrustInfo.xml
+C:\Users\Jerry\Dropbox\Projects\FileMovingService\FileMovingService\FileMovingService\obj\x86\Debug\FileMovingService.exe.manifest
+C:\Users\Jerry\Dropbox\Projects\FileMovingService\FileMovingService\FileMovingService\obj\x86\Debug\FileMovingService.application
+C:\Users\Jerry\Dropbox\Projects\FileMovingService\FileMovingService\FileMovingService\obj\x86\Debug\FileMovingService.exe
+C:\Users\Jerry\Dropbox\Projects\FileMovingService\FileMovingService\FileMovingService\obj\x86\Debug\FileMovingService.pdb
+C:\Users\Jerry\Dropbox\Projects\FileMovingService\FileMovingService\FileMovingService\bin\Debug\FileMovingService.pdb
+C:\Users\Jerry\Dropbox\Projects\FileMovingService\FileMovingService\FileMovingService\obj\x86\Debug\FileMovingService.ProjectInstaller.resources

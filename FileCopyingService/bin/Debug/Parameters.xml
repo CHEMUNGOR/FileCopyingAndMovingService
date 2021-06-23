@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- System Parameters -->
+<Parameters>
+  <!--The moving of files should happen every given milliseconds. 1000 milliseconds= 1 second-->
+  <ParTInterval2>5000</ParTInterval2>
+  <!--Enter YES to save messages and errors in windows logs. Open Event Viewer to see the logs-->
+  <LogTransactions>YES</LogTransactions>
+  <!--<MoveFrom>E:\Backups\Dropbox\Apps\SQL Backup Master</MoveFrom>
+  <MoveTo></MoveTo>-->
+  <MoveFrom>D:\MoveFrom</MoveFrom>
+  <MoveTo>D:\MoveTo</MoveTo>  
+</Parameters >

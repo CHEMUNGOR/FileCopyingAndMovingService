@@ -1,0 +1,78 @@
+C:\Users\Jerry\Dropbox\Projects\FileCopyingService\FileCopyingService\bin\Debug\FileMovingService.exe.config
+C:\Users\Jerry\Dropbox\Projects\FileCopyingService\FileCopyingService\bin\Debug\FileMovingService.exe.manifest
+C:\Users\Jerry\Dropbox\Projects\FileCopyingService\FileCopyingService\bin\Debug\FileMovingService.application
+C:\Users\Jerry\Dropbox\Projects\FileCopyingService\FileCopyingService\bin\Debug\FileMovingService.exe
+C:\Users\Jerry\Dropbox\Projects\FileCopyingService\FileCopyingService\bin\Debug\FileMovingService.pdb
+C:\Users\Jerry\Dropbox\Projects\FileCopyingService\FileCopyingService\obj\x86\Debug\FileCopyingService.csproj.GenerateResource.Cache
+C:\Users\Jerry\Dropbox\Projects\FileCopyingService\FileCopyingService\obj\x86\Debug\FileMovingService.TrustInfo.xml
+C:\Users\Jerry\Dropbox\Projects\FileCopyingService\FileCopyingService\obj\x86\Debug\FileMovingService.exe.manifest
+C:\Users\Jerry\Dropbox\Projects\FileCopyingService\FileCopyingService\obj\x86\Debug\FileMovingService.application
+C:\Users\Jerry\Dropbox\Projects\FileCopyingService\FileCopyingService\obj\x86\Debug\FileMovingService.exe
+C:\Users\Jerry\Dropbox\Projects\FileCopyingService\FileCopyingService\obj\x86\Debug\FileMovingService.pdb
+C:\Users\Jerry\Dropbox\Projects\FileCopyingService\FileCopyingService\obj\x86\Debug\FileCopyingService.FileCopyingService.resources
+C:\Users\Jerry\Dropbox\Projects\FileCopyingService\FileCopyingService\obj\x86\Debug\FileCopyingService.ProjectInstaller.resources
+C:\Users\Jerry\Dropbox\Projects\FileCopyingService\FileCopyingService\FileCopyingService\bin\Debug\FileMovingService.exe.config
+C:\Users\Jerry\Dropbox\Projects\FileCopyingService\FileCopyingService\FileCopyingService\bin\Debug\FileMovingService.exe.manifest
+C:\Users\Jerry\Dropbox\Projects\FileCopyingService\FileCopyingService\FileCopyingService\bin\Debug\FileMovingService.application
+C:\Users\Jerry\Dropbox\Projects\FileCopyingService\FileCopyingService\FileCopyingService\bin\Debug\FileMovingService.exe
+C:\Users\Jerry\Dropbox\Projects\FileCopyingService\FileCopyingService\FileCopyingService\bin\Debug\FileMovingService.pdb
+C:\Users\Jerry\Dropbox\Projects\FileCopyingService\FileCopyingService\FileCopyingService\obj\x86\Debug\FileCopyingService.FileCopyingService.resources
+C:\Users\Jerry\Dropbox\Projects\FileCopyingService\FileCopyingService\FileCopyingService\obj\x86\Debug\FileCopyingService.ProjectInstaller.resources
+C:\Users\Jerry\Dropbox\Projects\FileCopyingService\FileCopyingService\FileCopyingService\obj\x86\Debug\FileCopyingService.csproj.GenerateResource.Cache
+C:\Users\Jerry\Dropbox\Projects\FileCopyingService\FileCopyingService\FileCopyingService\obj\x86\Debug\FileMovingService.TrustInfo.xml
+C:\Users\Jerry\Dropbox\Projects\FileCopyingService\FileCopyingService\FileCopyingService\obj\x86\Debug\FileMovingService.exe.manifest
+C:\Users\Jerry\Dropbox\Projects\FileCopyingService\FileCopyingService\FileCopyingService\obj\x86\Debug\FileMovingService.application
+C:\Users\Jerry\Dropbox\Projects\FileCopyingService\FileCopyingService\FileCopyingService\obj\x86\Debug\FileMovingService.exe
+C:\Users\Jerry\Dropbox\Projects\FileCopyingService\FileCopyingService\FileCopyingService\obj\x86\Debug\FileMovingService.pdb
+C:\Users\Jerry\Dropbox (Personal)\Projects\FileCopyingService\FileCopyingService\FileCopyingService\bin\Debug\FileMovingService.exe.config
+C:\Users\Jerry\Dropbox (Personal)\Projects\FileCopyingService\FileCopyingService\FileCopyingService\bin\Debug\FileMovingService.exe.manifest
+C:\Users\Jerry\Dropbox (Personal)\Projects\FileCopyingService\FileCopyingService\FileCopyingService\bin\Debug\FileMovingService.application
+C:\Users\Jerry\Dropbox (Personal)\Projects\FileCopyingService\FileCopyingService\FileCopyingService\bin\Debug\FileMovingService.exe
+C:\Users\Jerry\Dropbox (Personal)\Projects\FileCopyingService\FileCopyingService\FileCopyingService\bin\Debug\FileMovingService.pdb
+C:\Users\Jerry\Dropbox (Personal)\Projects\FileCopyingService\FileCopyingService\FileCopyingService\obj\x86\Debug\FileCopyingService.FileCopyingService.resources
+C:\Users\Jerry\Dropbox (Personal)\Projects\FileCopyingService\FileCopyingService\FileCopyingService\obj\x86\Debug\FileCopyingService.ProjectInstaller.resources
+C:\Users\Jerry\Dropbox (Personal)\Projects\FileCopyingService\FileCopyingService\FileCopyingService\obj\x86\Debug\FileCopyingService.csproj.GenerateResource.Cache
+C:\Users\Jerry\Dropbox (Personal)\Projects\FileCopyingService\FileCopyingService\FileCopyingService\obj\x86\Debug\FileMovingService.TrustInfo.xml
+C:\Users\Jerry\Dropbox (Personal)\Projects\FileCopyingService\FileCopyingService\FileCopyingService\obj\x86\Debug\FileMovingService.exe.manifest
+C:\Users\Jerry\Dropbox (Personal)\Projects\FileCopyingService\FileCopyingService\FileCopyingService\obj\x86\Debug\FileMovingService.application
+C:\Users\Jerry\Dropbox (Personal)\Projects\FileCopyingService\FileCopyingService\FileCopyingService\obj\x86\Debug\FileMovingService.exe
+C:\Users\Jerry\Dropbox (Personal)\Projects\FileCopyingService\FileCopyingService\FileCopyingService\obj\x86\Debug\FileMovingService.pdb
+C:\Users\Jerry\Dropbox (Personal)\Projects\FileCopyingnMovingService\FileCopyingService\FileCopyingService\bin\Debug\FileMovingService.exe.config
+C:\Users\Jerry\Dropbox (Personal)\Projects\FileCopyingnMovingService\FileCopyingService\FileCopyingService\bin\Debug\FileMovingService.exe.manifest
+C:\Users\Jerry\Dropbox (Personal)\Projects\FileCopyingnMovingService\FileCopyingService\FileCopyingService\bin\Debug\FileMovingService.application
+C:\Users\Jerry\Dropbox (Personal)\Projects\FileCopyingnMovingService\FileCopyingService\FileCopyingService\bin\Debug\FileMovingService.exe
+C:\Users\Jerry\Dropbox (Personal)\Projects\FileCopyingnMovingService\FileCopyingService\FileCopyingService\bin\Debug\FileMovingService.pdb
+C:\Users\Jerry\Dropbox (Personal)\Projects\FileCopyingnMovingService\FileCopyingService\FileCopyingService\obj\x86\Debug\FileCopyingService.FileCopyingService.resources
+C:\Users\Jerry\Dropbox (Personal)\Projects\FileCopyingnMovingService\FileCopyingService\FileCopyingService\obj\x86\Debug\FileCopyingService.ProjectInstaller.resources
+C:\Users\Jerry\Dropbox (Personal)\Projects\FileCopyingnMovingService\FileCopyingService\FileCopyingService\obj\x86\Debug\FileCopyingService.csproj.GenerateResource.Cache
+C:\Users\Jerry\Dropbox (Personal)\Projects\FileCopyingnMovingService\FileCopyingService\FileCopyingService\obj\x86\Debug\FileMovingService.TrustInfo.xml
+C:\Users\Jerry\Dropbox (Personal)\Projects\FileCopyingnMovingService\FileCopyingService\FileCopyingService\obj\x86\Debug\FileMovingService.exe.manifest
+C:\Users\Jerry\Dropbox (Personal)\Projects\FileCopyingnMovingService\FileCopyingService\FileCopyingService\obj\x86\Debug\FileMovingService.application
+C:\Users\Jerry\Dropbox (Personal)\Projects\FileCopyingnMovingService\FileCopyingService\FileCopyingService\obj\x86\Debug\FileMovingService.exe
+C:\Users\Jerry\Dropbox (Personal)\Projects\FileCopyingnMovingService\FileCopyingService\FileCopyingService\obj\x86\Debug\FileMovingService.pdb
+C:\Users\PC\OneDrive\Projects\FileCopyingnMovingService\FileCopyingService2015\FileCopyingService\bin\Debug\FileMovingService.exe.config
+C:\Users\PC\OneDrive\Projects\FileCopyingnMovingService\FileCopyingService2015\FileCopyingService\bin\Debug\FileMovingService.exe.manifest
+C:\Users\PC\OneDrive\Projects\FileCopyingnMovingService\FileCopyingService2015\FileCopyingService\bin\Debug\FileMovingService.application
+C:\Users\PC\OneDrive\Projects\FileCopyingnMovingService\FileCopyingService2015\FileCopyingService\bin\Debug\FileMovingService.exe
+C:\Users\PC\OneDrive\Projects\FileCopyingnMovingService\FileCopyingService2015\FileCopyingService\bin\Debug\FileMovingService.pdb
+C:\Users\PC\OneDrive\Projects\FileCopyingnMovingService\FileCopyingService2015\FileCopyingService\obj\x86\Debug\FileCopyingService.FileCopyingService.resources
+C:\Users\PC\OneDrive\Projects\FileCopyingnMovingService\FileCopyingService2015\FileCopyingService\obj\x86\Debug\FileCopyingService.ProjectInstaller.resources
+C:\Users\PC\OneDrive\Projects\FileCopyingnMovingService\FileCopyingService2015\FileCopyingService\obj\x86\Debug\FileCopyingService.csproj.GenerateResource.Cache
+C:\Users\PC\OneDrive\Projects\FileCopyingnMovingService\FileCopyingService2015\FileCopyingService\obj\x86\Debug\FileMovingService.TrustInfo.xml
+C:\Users\PC\OneDrive\Projects\FileCopyingnMovingService\FileCopyingService2015\FileCopyingService\obj\x86\Debug\FileMovingService.exe.manifest
+C:\Users\PC\OneDrive\Projects\FileCopyingnMovingService\FileCopyingService2015\FileCopyingService\obj\x86\Debug\FileMovingService.application
+C:\Users\PC\OneDrive\Projects\FileCopyingnMovingService\FileCopyingService2015\FileCopyingService\obj\x86\Debug\FileMovingService.exe
+C:\Users\PC\OneDrive\Projects\FileCopyingnMovingService\FileCopyingService2015\FileCopyingService\obj\x86\Debug\FileMovingService.pdb
+C:\Users\PC\OneDrive\Projects\FileCopyingnMovingService\FileCopyingService20210622\FileCopyingService\bin\Debug\FileMovingService.exe.config
+C:\Users\PC\OneDrive\Projects\FileCopyingnMovingService\FileCopyingService20210622\FileCopyingService\bin\Debug\FileMovingService.exe.manifest
+C:\Users\PC\OneDrive\Projects\FileCopyingnMovingService\FileCopyingService20210622\FileCopyingService\bin\Debug\FileMovingService.application
+C:\Users\PC\OneDrive\Projects\FileCopyingnMovingService\FileCopyingService20210622\FileCopyingService\bin\Debug\FileMovingService.exe
+C:\Users\PC\OneDrive\Projects\FileCopyingnMovingService\FileCopyingService20210622\FileCopyingService\bin\Debug\FileMovingService.pdb
+C:\Users\PC\OneDrive\Projects\FileCopyingnMovingService\FileCopyingService20210622\FileCopyingService\obj\x86\Debug\FileCopyingService.FileCopyingService.resources
+C:\Users\PC\OneDrive\Projects\FileCopyingnMovingService\FileCopyingService20210622\FileCopyingService\obj\x86\Debug\FileCopyingService.ProjectInstaller.resources
+C:\Users\PC\OneDrive\Projects\FileCopyingnMovingService\FileCopyingService20210622\FileCopyingService\obj\x86\Debug\FileCopyingService.csproj.GenerateResource.Cache
+C:\Users\PC\OneDrive\Projects\FileCopyingnMovingService\FileCopyingService20210622\FileCopyingService\obj\x86\Debug\FileMovingService.TrustInfo.xml
+C:\Users\PC\OneDrive\Projects\FileCopyingnMovingService\FileCopyingService20210622\FileCopyingService\obj\x86\Debug\FileMovingService.exe.manifest
+C:\Users\PC\OneDrive\Projects\FileCopyingnMovingService\FileCopyingService20210622\FileCopyingService\obj\x86\Debug\FileMovingService.application
+C:\Users\PC\OneDrive\Projects\FileCopyingnMovingService\FileCopyingService20210622\FileCopyingService\obj\x86\Debug\FileMovingService.exe
+C:\Users\PC\OneDrive\Projects\FileCopyingnMovingService\FileCopyingService20210622\FileCopyingService\obj\x86\Debug\FileMovingService.pdb
